@@ -4,10 +4,6 @@ import cellularConnectionIcon from '../assets/vectors/cellularConnection6_x2.svg
 import wifiIcon from '../assets/vectors/wifi3_x2.svg';
 import batteryIcon from '../assets/vectors/battery1_x2.svg';
 import group1Icon from '../assets/vectors/group1_x2.svg';
-import vector1Icon from '../assets/vectors/vector17_x2.svg';
-import vector2Icon from '../assets/vectors/vector5_x2.svg';
-import vector3Icon from '../assets/vectors/vector3_x2.svg';
-import vector4Icon from '../assets/vectors/vector_x2.svg';
 
 function AndroidLarge1() {
   return (
