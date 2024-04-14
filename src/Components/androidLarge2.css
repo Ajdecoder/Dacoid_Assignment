@@ -1,0 +1,92 @@
+.android-large-2 .time {
+  margin-right: 9px;
+  width: 257.8px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.3px;
+  color: #252727;
+}
+.android-large-2 .cellular-connection {
+  margin: 1px 5px 0 0;
+  width: 17px;
+  height: 10.7px;
+}
+.android-large-2 .wifi {
+  margin: 0 5px 0.7px 0;
+  width: 15.3px;
+  height: 11px;
+}
+.android-large-2 .battery {
+  border-radius: 2.7px;
+  margin-bottom: 0.3px;
+  width: 24.3px;
+  height: 11.3px;
+}
+.android-large-2 .status-bar {
+  border-radius: 2.7px;
+  margin: 4px 0 2.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 66.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.android-large-2 .status {
+  margin: 0 2.3px 14px 16.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 18.5px);
+  box-sizing: border-box;
+}
+.android-large-2 .skip {
+  margin: 0 4.8px 92px 4.8px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration-line: underline;
+  color: #9FB2FF;
+}
+.android-large-2 .image-16 {
+  background: url('../assets/images/image16.png') 50% / cover no-repeat;
+  margin-bottom: 108.4px;
+  width: 352px;
+  height: 234.6px;
+}
+.android-large-2 .get-burn {
+  margin: 0 5px 15px 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #2C2B2B;
+}
+.android-large-2 .lets-keep-burning-to-achieve-your-goals-it-hurts-only-temporarily-if-you-give-up-now-you-will-be-in-pain-forever {
+  margin: 0 16.9px 98px 5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #787878;
+}
+.android-large-2 .group-1 {
+  margin: 0 4px;
+  width: 60px;
+  height: 60px;
+}
+.android-large-2 {
+  border-radius: 10px;
+  background: #FCFCFC;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 12px 12px 44px 11px;
+  box-sizing: border-box;
+}
