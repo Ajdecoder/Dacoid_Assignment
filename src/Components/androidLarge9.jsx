@@ -19,18 +19,6 @@ function AndroidLarge9() {
       <div className="line-14"></div>
       <div className="line-4"></div>
       <div className="line-12"></div>
-      <div className="status">
-        <span className="time">9:41</span>
-        <div className="status-bar">
-          <img
-            className="cellular-connection"
-            src={cellularConnectionIcon}
-            alt="Cellular Connection"
-          />
-          <img className="wifi" src={wifiIcon} alt="Wi-Fi" />
-          <img className="battery" src={batteryIcon} alt="Battery" />
-        </div>
-      </div>
       <div className="container-1">
         <div className="chevron-left">
           <img className="vector-10" src={vector8Icon} alt="Vector" />

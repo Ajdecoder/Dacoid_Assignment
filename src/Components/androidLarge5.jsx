@@ -10,14 +10,6 @@ import vectorIcon from '../assets/vectors/vector1_x2.svg';
 function AndroidLarge5() {
   return (
     <div className="android-large-5">
-      <div className="status">
-        <span className="time">9:41</span>
-        <div className="status-bar">
-          <img className="cellular-connection" src={cellularConnectionIcon} alt="Cellular Connection" />
-          <img className="wifi" src={wifiIcon} alt="Wi-Fi" />
-          <img className="battery" src={batteryIcon} alt="Battery" />
-        </div>
-      </div>
       <div className="welcome-back">Welcome Back</div>
       <div className="container-4">
         <span className="email">Email</span>

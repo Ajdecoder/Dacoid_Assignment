@@ -8,14 +8,6 @@ import group1Icon from '../assets/vectors/group1_x2.svg';
 function AndroidLarge1() {
   return (
     <div className="android-large-1">
-      <div className="status">
-        <span className="time">9:41</span>
-        <div className="status-bar">
-          <img className="cellular-connection" src={cellularConnectionIcon} alt="Cellular Connection" />
-          <img className="wifi" src={wifiIcon} alt="Wi-Fi" />
-          <img className="battery" src={batteryIcon} alt="Battery" />
-        </div>
-      </div>
       <div className="skip">Skip</div>
       <div className="image-13"></div>
       <div className="track-your-goal">Track Your Goal</div>

@@ -7,14 +7,6 @@ import batteryIcon from '../assets/vectors/battery2_x2.svg';
 function AndroidLarge6() {
   return (
     <div className="android-large-6">
-      <div className="status">
-        <span className="time">9:41</span>
-        <div className="status-bar">
-          <img className="cellular-connection" src={cellularConnectionIcon} alt="Cellular Connection" />
-          <img className="wifi" src={wifiIcon} alt="Wi-Fi" />
-          <img className="battery" src={batteryIcon} alt="Battery" />
-        </div>
-      </div>
       <div className="what-are-your-goals">What are your goals?</div>
       <div className="container-4">
         <div className="weight-loss">Weight Loss</div>
