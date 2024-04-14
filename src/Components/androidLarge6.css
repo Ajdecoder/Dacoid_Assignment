@@ -1,0 +1,296 @@
+.android-large-6 .time {
+  margin-right: 9px;
+  width: 257.8px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.3px;
+  color: #252727;
+}
+.android-large-6 .cellular-connection {
+  margin: 1px 5px 0 0;
+  width: 17px;
+  height: 10.7px;
+}
+.android-large-6 .wifi {
+  margin: 0 5px 0.7px 0;
+  width: 15.3px;
+  height: 11px;
+}
+.android-large-6 .battery {
+  border-radius: 2.7px;
+  margin-bottom: 0.3px;
+  width: 24.3px;
+  height: 11.3px;
+}
+.android-large-6 .status-bar {
+  border-radius: 2.7px;
+  margin: 4px 0 2.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 66.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.android-large-6 .status {
+  margin: 0 0 38px 11.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 11.2px);
+  box-sizing: border-box;
+}
+.android-large-6 .what-are-your-goals {
+  margin: 0 1.8px 43px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #2C2B2B;
+}
+.android-large-6 .weight-loss {
+  margin: 4px 7.5px 3px 0;
+  display: inline-block;
+  width: 277.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 12px;
+  color: #2C2B2B;
+}
+.android-large-6 .rectangle-2128 {
+  border-radius: 4px;
+  border: 1px solid #809AFF;
+  width: 22px;
+  height: 22px;
+}
+.android-large-6 .group-759132 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.android-large-6 .container-4 {
+  border-radius: 12px;
+  background: #F1F1F1;
+  position: relative;
+  margin: 0 1.7px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 16px 14px 20px;
+  width: calc(100% - 1.7px);
+  box-sizing: border-box;
+}
+.android-large-6 .muscle-gain {
+  margin: 4px 7.5px 3px 0;
+  display: inline-block;
+  width: 277.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 12px;
+  color: #2C2B2B;
+}
+.android-large-6 .rectangle-21281 {
+  border-radius: 4px;
+  border: 1px solid #809AFF;
+  width: 22px;
+  height: 22px;
+}
+.android-large-6 .group-759133 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.android-large-6 .container-1 {
+  border-radius: 12px;
+  background: #F1F1F1;
+  position: relative;
+  margin: 0 1.7px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 16px 14px 20px;
+  width: calc(100% - 1.7px);
+  box-sizing: border-box;
+}
+.android-large-6 .flexibility-and-mobility {
+  margin: 4px 7.5px 3px 0;
+  display: inline-block;
+  width: 277.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 12px;
+  color: #2C2B2B;
+}
+.android-large-6 .rectangle-21282 {
+  border-radius: 4px;
+  border: 1px solid #809AFF;
+  width: 22px;
+  height: 22px;
+}
+.android-large-6 .group-759134 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.android-large-6 .container-5 {
+  border-radius: 12px;
+  background: #F1F1F1;
+  position: relative;
+  margin: 0 1.7px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 16px 14px 20px;
+  width: calc(100% - 1.7px);
+  box-sizing: border-box;
+}
+.android-large-6 .general-fitness {
+  margin: 4px 7.5px 3px 0;
+  display: inline-block;
+  width: 277.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 12px;
+  color: #2C2B2B;
+}
+.android-large-6 .rectangle-21283 {
+  border-radius: 4px;
+  border: 1px solid #809AFF;
+  width: 22px;
+  height: 22px;
+}
+.android-large-6 .group-759135 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.android-large-6 .container {
+  border-radius: 12px;
+  background: #F1F1F1;
+  position: relative;
+  margin: 0 1.7px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 16px 14px 20px;
+  width: calc(100% - 1.7px);
+  box-sizing: border-box;
+}
+.android-large-6 .event-specific-training {
+  margin: 4px 7.5px 3px 0;
+  display: inline-block;
+  width: 277.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 12px;
+  color: #2C2B2B;
+}
+.android-large-6 .rectangle-21284 {
+  border-radius: 4px;
+  border: 1px solid #809AFF;
+  width: 22px;
+  height: 22px;
+}
+.android-large-6 .group-759136 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.android-large-6 .container-6 {
+  border-radius: 12px;
+  background: #F1F1F1;
+  position: relative;
+  margin: 0 1.7px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 16px 14px 20px;
+  width: calc(100% - 1.7px);
+  box-sizing: border-box;
+}
+.android-large-6 .mindfulness-and-mental-health {
+  margin: 4px 7.5px 3px 0;
+  display: inline-block;
+  width: 277.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 12px;
+  color: #2C2B2B;
+}
+.android-large-6 .rectangle-21285 {
+  border-radius: 4px;
+  border: 1px solid #809AFF;
+  width: 22px;
+  height: 22px;
+}
+.android-large-6 .group-759137 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  box-sizing: border-box;
+}
+.android-large-6 .container-3 {
+  border-radius: 12px;
+  background: #F1F1F1;
+  position: relative;
+  margin: 0 1.7px 150px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 14px 16px 14px 20px;
+  width: calc(100% - 1.7px);
+  box-sizing: border-box;
+}
+.android-large-6 .confirm {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.android-large-6 .container-2 {
+  border-radius: 12px;
+  background: linear-gradient(270deg, #7B91FF, #95BEFF);
+  position: relative;
+  margin-right: 1.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 15px 0.3px 15px 0;
+  width: calc(100% - 1.7px);
+  box-sizing: border-box;
+}
+.android-large-6 {
+  border-radius: 10px;
+  background: #FCFCFC;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 14.3px 85px 16px;
+  box-sizing: border-box;
+}
