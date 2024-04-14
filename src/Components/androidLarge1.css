@@ -1,0 +1,122 @@
+.android-large-1 .time {
+  margin-right: 9px;
+  width: 257.8px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: -0.3px;
+  color: #252727;
+}
+.android-large-1 .cellular-connection {
+  margin: 1px 5px 0 0;
+  width: 17px;
+  height: 10.7px;
+}
+.android-large-1 .wifi {
+  margin: 0 5px 0.7px 0;
+  width: 15.3px;
+  height: 11px;
+}
+.android-large-1 .battery {
+  border-radius: 2.7px;
+  margin-bottom: 0.3px;
+  width: 24.3px;
+  height: 11.3px;
+}
+.android-large-1 .status-bar {
+  border-radius: 2.7px;
+  margin: 4px 0 2.3px 0;
+  display: flex;
+  flex-direction: row;
+  width: 66.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.android-large-1 .status {
+  margin: 0 0 14px 27.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 27.2px);
+  box-sizing: border-box;
+}
+.android-large-1 .skip {
+  margin: 0 2.5px 68px 2.5px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration-line: underline;
+  color: #9FB2FF;
+}
+.android-large-1 .image-13 {
+  background: url('../assets/images/image13.png') 50% / cover no-repeat;
+  margin: 0 0 85px 13.3px;
+  align-self: center;
+  width: 282px;
+  height: 282px;
+}
+.android-large-1 .track-your-goal {
+  margin: 0 16px 15px 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 20px;
+  color: #2C2B2B;
+}
+.android-large-1 .dont-worry-if-you-have-trouble-determining-your-goals-we-can-help-you-determine-your-goals-and-track-your-goals {
+  margin: 0 15.9px 78px 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #787878;
+}
+.android-large-1 .group-1 {
+  margin: 0 1.7px 63px 1.7px;
+  align-self: flex-end;
+  width: 60px;
+  height: 60px;
+}
+.android-large-1 .vector-1 {
+  width: 27px;
+  height: 27px;
+}
+.android-large-1 .vector-4 {
+  width: 27px;
+  height: 27px;
+}
+.android-large-1 .vector-3 {
+  width: 27px;
+  height: 27px;
+}
+.android-large-1 .vector-2 {
+  width: 26px;
+  height: 27px;
+}
+.android-large-1 .container {
+  border-radius: 20px;
+  background: #000000;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  padding: 15px 0 35px 0;
+  width: 390px;
+  box-sizing: border-box;
+}
+.android-large-1 {
+  border-radius: 10px;
+  background: #FCFCFC;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 14.3px 0 0;
+  box-sizing: border-box;
+}
