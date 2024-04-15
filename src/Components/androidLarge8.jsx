@@ -26,8 +26,8 @@ function AndroidLarge8() {
           <span className="workout-tracker">Workout Tracker</span>
         </div>
         <div className="container-12">
-          <span className="good-job">􀙬 Good job</span>
-          <span className="less-then-320-cal">􀄩 less then 320cal</span>
+          <span className="good-job">Good job</span>
+          <span className="less-then-320-cal">less then 320cal</span>
         </div>
         <div className="container-8">
           <img className="union-1" src={unionIcon} alt="Union Icon" />

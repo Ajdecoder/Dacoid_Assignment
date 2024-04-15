@@ -110,8 +110,6 @@ function AndroidLarge9() {
           <img className="vector" src={vector4Icon} alt="Vector" />
         </div>
       </div>
-      <div className="line-6"></div>
-      <div className="line-15"></div>
       <div className="rectangle-4534"></div>
       <div className="ellipse-56"></div>
     </div>
