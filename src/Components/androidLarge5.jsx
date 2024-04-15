@@ -1,8 +1,5 @@
 import React from 'react';
 import './androidLarge5.css';
-import cellularConnectionIcon from '../assets/vectors/cellularConnection2_x2.svg';
-import wifiIcon from '../assets/vectors/wifi2_x2.svg';
-import batteryIcon from '../assets/vectors/battery4_x2.svg';
 import eyeOffIcon from '../assets/vectors/eyeOff_x2.svg';
 import googleIcon from '../assets/vectors/flatColorIconsgoogle_x2.svg';
 import vectorIcon from '../assets/vectors/vector1_x2.svg';
@@ -12,15 +9,15 @@ function AndroidLarge5() {
     <div className="android-large-5">
       <div className="welcome-back">Welcome Back</div>
       <div className="container-4">
-        <span className="email">Email</span>
+        <input type="text" className="email-input" placeholder="Email" />
       </div>
       <div className="container">
-        <div className="password">Password</div>
+        <input type="password" className="password-input" placeholder="Password" />
         <img className="eye-off" src={eyeOffIcon} alt="Eye Off" />
       </div>
       <div className="forgot-your-password">Forgot your password?</div>
       <div className="container-1">
-        <span className="sign-in">Sign In</span>
+        <div className="sign-in">Sign In</div>
       </div>
       <div className="container-3">
         <div className="line-1"></div>

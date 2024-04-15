@@ -1,8 +1,5 @@
 import React from "react";
 import "./androidLarge9.css";
-import cellularConnectionIcon from "../assets/vectors/cellularConnection_x2.svg";
-import wifiIcon from "../assets/vectors/wifi6_x2.svg";
-import batteryIcon from "../assets/vectors/battery3_x2.svg";
 import vector8Icon from "../assets/vectors/vector8_x2.svg";
 import vector10Icon from "../assets/vectors/vector10_x2.svg";
 import vector11Icon from "../assets/vectors/vector11_x2.svg";
@@ -16,9 +13,6 @@ import groupIcon from '../assets/vectors/group_x2.svg';
 function AndroidLarge9() {
   return (
     <div className="android-large-9">
-      <div className="line-14"></div>
-      <div className="line-4"></div>
-      <div className="line-12"></div>
       <div className="container-1">
         <div className="chevron-left">
           <img className="vector-10" src={vector8Icon} alt="Vector" />
