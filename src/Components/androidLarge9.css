@@ -549,6 +549,7 @@
   width: 63px;
   height: 63px;
   box-sizing: border-box;
+  margin-left: -80px;
 }
 .android-large-9 .container-9 {
   margin: 0 16px 7px 15.4px;

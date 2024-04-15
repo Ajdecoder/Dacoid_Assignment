@@ -11,7 +11,7 @@ function AndroidLarge1() {
       <div className="skip">Skip</div>
       <div className="image-13"></div>
       <div className="track-your-goal">Track Your Goal</div>
-      <div className="dont-worry-if-you-have-trouble-determining-your-goals-we-can-help-you-determine-your-goals-and-track-your-goals">
+      <div className="goals-reminder">
         Don’t worry if you have trouble determining your goals, We can help you determine your goals and track your goals
       </div>
       <img className="group-1" src={group1Icon} alt="Group 1 Icon" />

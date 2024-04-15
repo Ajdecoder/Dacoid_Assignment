@@ -505,6 +505,7 @@
   height: 63px;
   z-index: 4;
   box-sizing: border-box;
+  margin: auto;
 }
 .android-large-8 .android-large-81 {
   border-radius: 10px;
