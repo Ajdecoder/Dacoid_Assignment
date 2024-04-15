@@ -285,6 +285,7 @@
   padding: 15px 0.3px 15px 0;
   width: calc(100% - 1.7px);
   box-sizing: border-box;
+  cursor: pointer;
 }
 .android-large-6 {
   border-radius: 10px;

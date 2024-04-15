@@ -26,38 +26,31 @@ function AndroidLarge9() {
       </div>
       <div className="calendar">
         <div className="group-626504">
-          <p className="sun-5">
-            Sun <span className="sun-5-sub-35">5</span>
-          </p>
+          <p className="sun-5">Sun <span className="sun-5-sub-35">5</span></p>
         </div>
         <div className="group-626505">
-          <p className="mon-6">
-            Mon <span className="mon-6-sub-54">6</span>
-          </p>
+          <p className="mon-6">Mon <span className="mon-6-sub-54">6</span></p>
         </div>
         <div className="group-626506">
-          <p className="tue-7">
-            Tue <span className="tue-7-sub-35">7</span>
-          </p>
+          <p className="tue-7">Tue <span className="tue-7-sub-35">7</span></p>
         </div>
         <div className="group-626508">
-          <p className="wed-8">
-            Wed <span className="wed-8-sub-35">8</span>
-          </p>
+          <p className="wed-8">Wed <span className="wed-8-sub-35">8</span></p>
         </div>
         <div className="group-626507">
-          <p className="thu-9">
-            Thu <span className="thu-9-sub-38">9</span>
-          </p>
+          <p className="thu-9">Thu <span className="thu-9-sub-38">9</span></p>
         </div>
       </div>
 
+      {/* Update the days and times */}
       <div className="am">06:00 AM</div>
+      <div className="line-3"></div>
+      <div className="am">07:00 AM</div>
       <div className="line-3"></div>
       <div className="container-12">
         <div className="container-8">
-          <div className="am-1">07:00 AM</div>
-          <span className="am-2">08:00 AM</span>
+          <div className="am-1">08:00 AM</div>
+          <span className="am-2">09:00 AM</span>
         </div>
         <div className="container-6">
           <span className="ab-workout-730-am">Ab Workout, 7:30am</span>
@@ -70,16 +63,19 @@ function AndroidLarge9() {
           <span className="upperbody-workout-9-am">Upperbody Workout, 9am</span>
         </div>
       </div>
-      <div className="am-4">10:00 AM</div>
+      <div className="line-5"></div>
+        <div className="am-4">10:00 AM</div>
+      <div className="line-5"></div>
+      <div className="am-4">11:00 AM</div>
       <div className="line-7"></div>
-      <div className="am-5">11:00 AM</div>
+      <div className="am-5">12:00 PM</div>
       <div className="line-8"></div>
-      <div className="am-6">12:00 AM</div>
+      <div className="am-6">01:00 PM</div>
       <div className="line-9"></div>
-      <div className="am-7">01:00 AM</div>
+      <div className="am-7">02:00 PM</div>
       <div className="line-10"></div>
       <div className="container-10">
-        <div className="am-8">02:00 AM</div>
+        <div className="am-8">03:00 PM</div>
         <div className="container-11">
           <span className="lowerbody-workout-3-pm">Lowerbody Workout, 3pm</span>
         </div>
@@ -87,8 +83,9 @@ function AndroidLarge9() {
       <div className="line-11"></div>
       <div className="container-9">
         <div className="container-7">
-          <div className="am-9">03:00 AM</div>
-          <span className="am-10">04:00 AM</span>
+          <div className="am-9">04:00 PM</div>
+          <hr style={{color:"black", width:"23em", position:"relative", left:"-12px"}} />
+          <span className="am-10">05:00 PM</span>
         </div>
         <div className="group-6">
           <span className="container">+</span>
@@ -105,7 +102,6 @@ function AndroidLarge9() {
             <img className="vector-2" src={vector2Icon} alt="Vector" />
           </div>
         </div>
-        <span className="am-11">05:00 AM</span>
         <div className="group-1">
           <img className="vector" src={vector4Icon} alt="Vector" />
         </div>

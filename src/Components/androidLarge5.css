@@ -135,6 +135,7 @@ input:focus{
   padding: 15px 1.7px 15px 0;
   width: calc(100% - 1.7px);
   box-sizing: border-box;
+  cursor: pointer;
 }
 .android-large-5 .line-1 {
   background: #7F7F7F;
@@ -168,6 +169,7 @@ input:focus{
 .android-large-5 .flat-color-iconsgoogle {
   width: 18px;
   height: 18px;
+  cursor: pointer;
 }
 .android-large-5 .container-2 {
   border-radius: 8px;
@@ -185,6 +187,7 @@ input:focus{
 .android-large-5 .vector-6 {
   width: 8.9px;
   height: 17px;
+  cursor: pointer;
 }
 .android-large-5 .container-6 {
   border-radius: 8px;

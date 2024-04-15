@@ -8,6 +8,7 @@
   font-weight: 600;
   font-size: 20px;
   color: #2c2b2b;
+  cursor: pointer;
 }
 .android-large-4 .first-name {
   border: none;
@@ -152,6 +153,7 @@
   padding: 15px 0;
   width: calc(100% - 1.7px);
   box-sizing: border-box;
+  cursor: pointer;
 }
 .android-large-4 .line-1 {
   background: #7f7f7f;
